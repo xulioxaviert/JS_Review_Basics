@@ -7,5 +7,5 @@ function rollDice(num) {
 }
 
 /* getRandomArbitrary(1, 6); */
-console.log(rollDice(15));
+console.log(rollDice(5));
 // console.log(getRandomArbitrary(1, 5));
