@@ -7,7 +7,8 @@
 let animalList = ["Caracol", "Mosquito", "Salamandra", "Ajolote"];
 
 function findArrayIndex(array, text) {
-  let flag = false;
+    let flag = false;
+    
   for (let i = 0; i < array.length; i++) {
     if (array[i] === text) {
       flag = true;
